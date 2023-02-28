@@ -13,6 +13,8 @@
 		53CF050629A94542007CAAF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53CF050429A94542007CAAF3 /* Main.storyboard */; };
 		53CF050829A94543007CAAF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53CF050729A94543007CAAF3 /* Assets.xcassets */; };
 		53CF050B29A94543007CAAF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53CF050929A94543007CAAF3 /* LaunchScreen.storyboard */; };
+		53E0E5F229AAA85100D8B917 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E0E5F129AAA85100D8B917 /* DetailViewController.swift */; };
+		53FED82529AC2A5100664518 /* fictional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FED82429AC2A5100664518 /* fictional.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		53CF050729A94543007CAAF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53CF050A29A94543007CAAF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		53CF050C29A94543007CAAF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53E0E5F129AAA85100D8B917 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		53FED82429AC2A5100664518 /* fictional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fictional.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				53CF050029A94542007CAAF3 /* SceneDelegate.swift */,
 				53CF050229A94542007CAAF3 /* ViewController.swift */,
 				53CF050429A94542007CAAF3 /* Main.storyboard */,
+				53FED82429AC2A5100664518 /* fictional.swift */,
+				53E0E5F129AAA85100D8B917 /* DetailViewController.swift */,
 				53CF050729A94543007CAAF3 /* Assets.xcassets */,
 				53CF050929A94543007CAAF3 /* LaunchScreen.storyboard */,
 				53CF050C29A94543007CAAF3 /* Info.plist */,
@@ -141,6 +147,8 @@
 				53CF050329A94542007CAAF3 /* ViewController.swift in Sources */,
 				53CF04FF29A94542007CAAF3 /* AppDelegate.swift in Sources */,
 				53CF050129A94542007CAAF3 /* SceneDelegate.swift in Sources */,
+				53E0E5F229AAA85100D8B917 /* DetailViewController.swift in Sources */,
+				53FED82529AC2A5100664518 /* fictional.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
