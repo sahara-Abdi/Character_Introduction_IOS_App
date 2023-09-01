@@ -33,9 +33,7 @@ GIF created with ...
 
 ## Notes
 
-I struggled with setting constrainst to make everything everything look good on the screen. Some of my  notes dont display when I change the phone into  Landscape.
 
-## License
 
     Copyright [yyyy] [name of copyright owner]
 
